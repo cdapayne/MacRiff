@@ -1,0 +1,15 @@
+{
+  "name": "mac-riff",
+  "version": "1.0.0",
+  "description": "Zero-latency USB-to-Keyboard bridge for PDP Riffmaster guitar dongle on macOS",
+  "main": "bridge.js",
+  "scripts": {
+    "build": "clang -O3 -target arm64-apple-macos11 -framework ApplicationServices injector.c -o injector.arm64 && clang -O3 -target x86_64-apple-macos11 -framework ApplicationServices injector.c -o injector.x86_64 && lipo -create injector.arm64 injector.x86_64 -output injector && rm injector.arm64 injector.x86_64",
+    "start": "node bridge.js",
+    "debug": "node bridge.js --debug",
+    "package": "chmod +x package.sh && ./package.sh"
+  },
+  "dependencies": {
+    "usb": "^2.13.0"
+  }
+}
