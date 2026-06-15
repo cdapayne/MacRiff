@@ -1,6 +1,7 @@
 <p align="center">
   <img src="macriff_logo.png" width="160" alt="MacRiff Logo">
 </p>
+[![Download Latest Release](https://img.shields.io/badge/Download-Release.MacRiff.zip-brightgreen?style=for-the-badge&logo=apple)](https://github.com/cdapayne/MacRiff/releases/download/MacRiff/Release.MacRiff.zip)
 
 # <p align="center">🎸 MacRiff</p>
 ### <p align="center">Zero-Latency Universal USB-to-Keyboard Bridge for the PDP Riffmaster Guitar (macOS)</p>
