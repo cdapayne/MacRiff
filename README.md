@@ -149,6 +149,8 @@ If you'd like to buy me a coffee, you can donate via:
 *   **PayPal**: [paypal.me/YOUR_PAYPAL_USERNAME](https://paypal.me/cp3izzle) (Best for international / credit card donations)
 *   **Cash App**: [`$YOUR_CASHAPP_USERNAME`](https://cash.app/$cdapayne) (Best for US-based donations)
 
+Thank you!!!
+
 
 ---
 
