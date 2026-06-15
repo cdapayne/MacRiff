@@ -144,10 +144,9 @@ If you want to compile or package MacRiff yourself:
 If **MacRiff** helped you get your PDP Riffmaster guitar working on macOS, consider supporting this project! Reverse-engineering USB protocols, compiling universal binaries, and maintaining driver bridges takes time and effort. 
 
 If you'd like to buy me a coffee, you can donate via:
-*   **PayPal**: [paypal.me/YOUR_PAYPAL_USERNAME](https://paypal.me/YOUR_PAYPAL_USERNAME) (Best for international / credit card donations)
-*   **Cash App**: [`$YOUR_CASHAPP_USERNAME`](https://cash.app/$YOUR_CASHAPP_USERNAME) (Best for US-based donations)
+*   **PayPal**: [paypal.me/YOUR_PAYPAL_USERNAME](https://paypal.me/cp3izzle) (Best for international / credit card donations)
+*   **Cash App**: [`$YOUR_CASHAPP_USERNAME`](https://cash.app/$cdapayne) (Best for US-based donations)
 
-*(Note: Don't forget to replace `YOUR_PAYPAL_USERNAME` and `YOUR_CASHAPP_USERNAME` with your actual usernames!)*
 
 ---
 
