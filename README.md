@@ -1,9 +1,10 @@
 <p align="center">
   <img src="macriff_logo.png" width="160" alt="MacRiff Logo">
 </p>
-### 🚀 [Download the Latest Release (MacRiff.zip)](https://github.com/cdapayne/MacRiff/releases/download/MacRiff/Release.MacRiff.zip)
+
 
 # <p align="center">🎸 MacRiff</p>
+### 🚀 [Download the Latest Release (MacRiff.zip)](https://github.com/cdapayne/MacRiff/releases/download/MacRiff/Release.MacRiff.zip)
 ### <p align="center">Zero-Latency Universal USB-to-Keyboard Bridge for the PDP Riffmaster Guitar (macOS)</p>
 
 MacRiff is a lightweight, high-performance background utility that bridges the **PDP Riffmaster Wireless Guitar Dongle** directly to keyboard inputs on macOS. It is designed to work seamlessly with rhythm games like **Clone Hero**, bypassing macOS HID driver limitations to deliver a zero-latency, plug-and-play experience.
