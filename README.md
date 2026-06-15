@@ -15,7 +15,7 @@ MacRiff is a lightweight, high-performance background utility that bridges the *
 Due to how macOS handles custom USB devices, the PDP Riffmaster wireless dongle does not register as a standard game controller out-of-the-box. MacRiff solves this using a two-part system:
 1. **USB Driver Bridge (`bridge.js` & `node-usb`)**: Runs with administrative privileges to detach the macOS default HID driver and claim the raw wireless USB interfaces directly using `libusb`. It polls the guitar state at the highest USB query rate.
 2. **C Key Injector (`injector`)**: Receives events from the bridge and synthesizes native macOS keyboard events (`CGEventPost`) to route them directly into the macOS window server, enabling standard game mapping.
-3. **Menu Bar GUI App (`MacRiff.app`)**: A Swift-based menu bar status app that makes starting, stopping, and viewing logs a single-click experience.
+3. **Menu Bar GUI App (`MacRiff.app`)**: A Swift-based menu bar status app that makes starting, stopping, and viewing logs a single-click experience. 
 
 ---
 
